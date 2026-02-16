@@ -1,0 +1,11 @@
+List all unique cities where customers are located
+Count the number of orders placed in 2017
+Find the total sales per category¶
+Calculate the percentage of orders that were paid in installments.¶
+Count the number of customers from each state.
+Calculate the number of orders per month in 2018.
+Find the average number of products per order, grouped by customer city.
+Calculate the percentage of total revenue contributed by each product category.¶
+Identify the correlation between product price and the number of times a product has been purchased.
+Calculate the cumulative sales per month for each year.
+Identify the top 3 customers who spent the most money in each year.
